@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "title": "notebook",
+      "price": 123,
+      "thumbnail": "www.fotos.com/foto1"
+    }
+  },
+  {
+    "id": 2,
+    "product": {
+      "title": "celular",
+      "price": 456,
+      "thumbnail": "www.fotos.com/foto2"
+    }
+  },
+  {
+    "id": 3,
+    "product": {
+      "title": "PC",
+      "price": 789,
+      "thumbnail": "www.fotos.com/foto3"
+    }
+  }
+]
