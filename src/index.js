@@ -78,6 +78,10 @@ app.get('/productoRandom', async (req, res) => {
 	
 })
 
+app.use('/', async (req, res) => {
+    res.status(200).send('service its wake up!')
+})
+
 const PORT = 8080
 
 app.listen(PORT, () => {
